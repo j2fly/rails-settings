@@ -15,8 +15,6 @@ Gem::Specification.new do |s|
     "README.rdoc"
   ]
   s.files = [
-    ".project",
-    ".rvmrc",
     "MIT-LICENSE",
     "README.rdoc",
     "Rakefile",
